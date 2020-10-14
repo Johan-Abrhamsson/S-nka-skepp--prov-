@@ -6,9 +6,12 @@ namespace Sänka_skepp
     {
         static void Main(string[] args)
         {
-            
-            
-            Console.WriteLine("Hello World!");
+            int ChoiseAlt;
+            Console.WriteLine("[Find The enemy!]");
+            Console.WriteLine("[Choose a Number]");
+            string Choise = Console.ReadLine();
+
+            Console.ReadLine();
         }
     }
 }
